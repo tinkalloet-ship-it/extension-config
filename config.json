@@ -2,7 +2,7 @@
   "enabled": true,
   "passcode": "123456",
   "sessionDuration": 14,
-  "forceExpire": false,
+  "forceExpire": true,
   "features": {
     "showThumbnails": true,
     "showAmount": true,
