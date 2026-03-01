@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "passcode": "1234",
   "authTimeout": 60,
   "refreshInterval": 5
