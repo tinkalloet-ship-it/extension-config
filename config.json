@@ -2,6 +2,16 @@
   "enabled": true,
   "passcode": "1234",
   "sessionDuration": 14,
-  "forceExpire": true,
-  "refreshInterval": 1
+  "forceExpire": false,
+  "features": {
+    "showThumbnails": true,
+    "showAmount": true,
+    "showCompany": true,
+    "showUserId": true,
+    "showAccountName": true,
+    "showMethod": true,
+    "showRemark": true,
+    "enableLightbox": true
+  },
+  "customCSS": ".tx-detail-item { background: yellow !important; }"
 }
