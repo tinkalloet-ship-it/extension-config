@@ -3,5 +3,5 @@
   "passcode": "1234567",
   "sessionDuration": 14,
   "forceExpire": true,
-  "refreshInterval": 5
+  "refreshInterval": 1
 }
