@@ -5,7 +5,7 @@
   "forceExpire": false,
   "features": {
     "showThumbnails": true,
-    "showAmount": false,
+    "showAmount": true,
     "showCompany": true,
     "showUserId": true,
     "showAccountName": true,
