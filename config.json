@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "passcode": "1234",
+  "passcode": "1234567",
   "sessionDuration": 14,
-  "forceExpire": false,
+  "forceExpire": true,
   "refreshInterval": 5
 }
