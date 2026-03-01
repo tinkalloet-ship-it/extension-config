@@ -12,6 +12,5 @@
     "showMethod": true,
     "showRemark": true,
     "enableLightbox": true
-  },
-  "customCSS": ".tx-detail-item { background: yellow !important; }"
+  }
 }
